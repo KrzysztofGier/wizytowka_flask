@@ -1,0 +1,17 @@
+h2 span{
+    background-color: grey;
+    }
+h1 {
+    color: blue;
+}
+img {
+    width: 300px
+}
+#logo{
+    width: 300px
+}
+
+textarea {
+    display: block; 
+    width: 300px
+ }
